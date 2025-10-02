@@ -1,0 +1,64 @@
+{
+  "data": [
+      {
+          "Country": "Andorra",
+          "Capital": "Andorra la Vella",
+          "Population": 84000,
+          "Area_km2": 468
+      },
+      {
+          "Country": "United Arab Emirates",
+          "Capital": "Abu Dhabi",
+          "Population": 4975593,
+          "Area_km2": 82880
+      },
+      {
+          "Country": "Afghanistan",
+          "Capital": "Kabul",
+          "Population": 29121286,
+          "Area_km2": 647500
+      },
+      {
+          "Country": "Antigua and Barbuda",
+          "Capital": "St. John's",
+          "Population": 86754,
+          "Area_km2": 443
+      },
+      {
+          "Country": "Anguilla",
+          "Capital": "The Valley",
+          "Population": 13254,
+          "Area_km2": 102
+      },
+      {
+          "Country": "Albania",
+          "Capital": "Tirana",
+          "Population": 2986952,
+          "Area_km2": 28748
+      },
+      {
+          "Country": "Armenia",
+          "Capital": "Yerevan",
+          "Population": 2968000,
+          "Area_km2": 29800
+      },
+      {
+          "Country": "Angola",
+          "Capital": "Luanda",
+          "Population": 13068161,
+          "Area_km2": 1246700
+      },
+      {
+          "Country": "Antarctica",
+          "Capital": "None",
+          "Population": 0,
+          "Area_km2": 14000000
+      },
+      {
+          "Country": "Argentina",
+          "Capital": "Buenos Aires",
+          "Population": 41343201,
+          "Area_km2": 2766890
+      }
+  ]
+}
