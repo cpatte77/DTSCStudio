@@ -1,0 +1,10 @@
+# requirements.txt
+
+openai
+pandas
+requests
+beautifulsoup4
+streamlit
+supabase
+python-dotenv
+plotly

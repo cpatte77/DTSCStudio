@@ -1,0 +1,8 @@
+# Secrets
+.env
+.Teacher_Model.py
+modal
+
+# Python cache
+__pycache__/
+*.pyc
